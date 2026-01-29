@@ -1,0 +1,9 @@
+build/
+*.exe
+*.o
+*.obj
+gcd_server
+.git
+.gitignore
+README.md
+build.bat

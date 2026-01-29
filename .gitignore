@@ -1,0 +1,19 @@
+# Build outputs
+build/
+*.exe
+*.o
+*.obj
+gcd_server
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
