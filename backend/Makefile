@@ -10,7 +10,7 @@ else
 endif
 
 SRCS = main.cpp
-HEADERS = httplib.h json.hpp gcd_solver.hpp
+HEADERS = httplib.h json.hpp gcd_solver.hpp exceptions.hpp response_utils.hpp request_validator.hpp exception_handler.hpp
 
 all: $(TARGET)
 
